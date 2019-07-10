@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+a:link,a:visited{
+    text-align: center;
+    text-decoration: none;
+    background-color: antiquewhite
+}
+li{
+    display: inline;
+}
+
